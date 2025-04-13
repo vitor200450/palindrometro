@@ -22,7 +22,7 @@ O Palíndrômetro é uma aplicação web que permite ao usuário verificar se um
 
 ## Demonstração
 
-![Screenshot do Palíndrômetro](screenshot.png)
+![Screenshot do Palíndrômetro](image.png)
 
 ## Como usar
 
